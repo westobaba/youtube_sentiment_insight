@@ -1,0 +1,13 @@
+boto3
+flask
+joblib
+pandas
+scikit-learn
+numpy
+lightgbm
+matplotlib
+mlflow
+seaborn
+nltk
+wordcloud
+seaborn
